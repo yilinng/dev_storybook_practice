@@ -31,6 +31,7 @@ export default {
  .postList {
    width: 35%;
    margin: 20px 0 20px -50px;
+   background-color: #d6d6d7;
  }
 
  .bgDark {
